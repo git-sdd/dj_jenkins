@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d35ed8-4e03-43e8-b98a-2a9335717e87" name="Default Changelist" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="38d35ed8-4e03-43e8-b98a-2a9335717e87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT.war.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/classes/com/dj/demo/DjJenkinsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/classes/com/dj/demo/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-api-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.3.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dj_jenkins-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.dj.demo.DjJenkinsApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.dj.demo.DjJenkinsApplicationTests.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dj/demo/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dj/demo/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dj/demo/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dj/demo/TestController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594374571662</updated>
-      <workItem from="1594374578220" duration="7107000" />
+      <workItem from="1594374578220" duration="8769000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1594374846448</created>
@@ -123,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594380618336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3">
+      <created>1594387414383</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594387414383</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" timestamp="1594374900563">
@@ -154,10 +201,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1594384973460" />
-    <state x="134" y="0" key="CommitChangelistDialog2" timestamp="1594382641875">
+    <state x="134" y="0" key="CommitChangelistDialog2" timestamp="1594387412496">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594382641875" />
+    <state x="134" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1594387412496" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1594374807199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -194,9 +241,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="187" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594384950879" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594383015384">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1594387435552">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594383015384" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594387435552" />
   </component>
 </project>
